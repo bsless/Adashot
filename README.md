@@ -31,13 +31,13 @@ to justify caching over walking over keys dynamically.
 
 ### Require Adashot
 
-```
+```clojure
 (require '[adashot.core :as a])
 ```
 or
-```
+```clojure
 (ns my-ns
-  (:require '[adashot.core :as a]))
+  (:require [adashot.core :as a]))
 ```
 
 ### Create a lens
