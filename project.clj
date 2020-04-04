@@ -1,4 +1,4 @@
-(defproject adashot "0.0.0-alpha0"
+(defproject bsless/adashot "0.0.0-alpha0"
   :description "Lenses library in Clojure with reasonable performance"
   :url "https://github.com/bsless/adashot"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
